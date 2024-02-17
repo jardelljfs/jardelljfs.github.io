@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default #home
+title: Página Inicial
 ---
+
+# Bem-vindo ao Meu Site Jekyll!
+
+Este é um site básico criado com Jekyll.

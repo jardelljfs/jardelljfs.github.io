@@ -1,1 +1,0 @@
-# jardelljfs.github.io
